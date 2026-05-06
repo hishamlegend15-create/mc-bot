@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer');
 
 const bot = mineflayer.createBot({
-    host: 'APNA_SERVER_IP', // Yahan MagmaNode ka IP likhein
+    host: 'dynamic-8.magmanode.com:25944', // Yahan MagmaNode ka IP likhein
     port: 25565,           // Yahan port likhein
     username: 'HishamBot', 
     version: '1.21.1'
